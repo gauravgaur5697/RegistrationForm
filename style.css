@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+    margin:0;
+    padding:16px
+}
+
+
+form {
+    border-color: #ccc;
+    border-width: 1px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center
+}
+
+.social-icons {
+    Width: 50px;
+    Height: 50px;
+    padding-top:16px;
+    padding-bottom:16px;
+    padding-left:32px;
+    padding-right:32px
+}
+
+#form-heading {
+    background-color:#f2f6ff;
+    font-size: 60px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align:center
+}
+
+#username{
+    Font-Size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top:0;
+    border-Left:0;
+    border-Right:0;
+    border-bottom: 1px solid #ccc;
+    width:100%
+}
+
+#username-err{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+    display: none
+}
+
+#email{
+    Font-Size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top:0;
+    border-Left:0;
+    border-Right:0;
+    border-bottom: 1px solid #ccc;
+    width:100%
+}
+
+#email-err{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+    display: none
+}
+
+#password{
+    Font-Size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top:0;
+    border-Left:0;
+    border-Right:0;
+    border-bottom: 1px solid #ccc;
+    width:100%
+}
+
+#password-err{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+    display: none
+}
+
+#cpassword{
+    Font-Size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top:0;
+    border-Left:0;
+    border-Right:0;
+    border-bottom: 1px solid #ccc;
+    width:100%
+}
+
+#cpassword-err{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+    display: none
+}
+
+#input-field-containers{
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left:80px; 
+    padding-right: 80px;
+}
+
+#submit-button{
+    background-color:#0056ff;
+    padding-bottom: 12px;
+    padding-top:12px;
+    padding-left:24px;
+    padding-right:24px;
+    font-size: 18px;
+    color:#ffffff;
+    border:0
+}
+
+#social-wrapper{
+    background-color:#f2f6ff;
+    padding:12px;
+}
+
